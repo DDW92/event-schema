@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "One hour of Python",
+      "startDate": "2021-05-03T12:00Z",
+      "endDate": "2021-05-03T13:00Z",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://www.wincacademy.nl/webinars/one-hour-of-python"
+        },
+      "image": [
+        "https://global-uploads.webflow.com/5ee34869dd28cd4237e2a5f2/5f36ca929e231b4b6d85b553_20200729_WINC-Academy_JoniIsraeli-102-6240-min-p-500.jpeg"
+       ],
+      "description": "In deze webinar maak je kennis met Python en ga je er ook zelf mee werken.",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.wincacademy.nl/webinars/one-hour-of-python",
+        "price": "0",
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2021-04-28T12:00"
+      },
+      "performer": {
+        "@type": "Person",
+        "name": "Donatas Rasiukevicius",
+        "alternateName": "Docent Winc academy"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Winc Academy",
+        "url": "https://www.wincacademy.nl/"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
